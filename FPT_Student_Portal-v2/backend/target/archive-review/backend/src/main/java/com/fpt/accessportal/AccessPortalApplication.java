@@ -1,0 +1,11 @@
+package com.fpt.accessportal;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AccessPortalApplication {
+  public static void main(String[] args) {
+    SpringApplication.run(AccessPortalApplication.class, args);
+  }
+}

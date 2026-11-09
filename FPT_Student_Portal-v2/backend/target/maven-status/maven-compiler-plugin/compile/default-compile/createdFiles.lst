@@ -1,0 +1,13 @@
+com\fpt\accessportal\AccessPortalApplication.class
+com\fpt\accessportal\controller\HealthController.class
+com\fpt\accessportal\repository\AccessDb.class
+com\fpt\accessportal\controller\StudentPortalController.class
+com\fpt\accessportal\controller\AuthController.class
+com\fpt\accessportal\security\GoogleIdentityVerifier.class
+com\fpt\accessportal\security\SessionTokens.class
+com\fpt\accessportal\service\StudentPortalService.class
+com\fpt\accessportal\security\SessionTokens$Session.class
+com\fpt\accessportal\config\CorsConfig.class
+com\fpt\accessportal\exception\ApiErrors.class
+com\fpt\accessportal\security\GoogleIdentityVerifier$Identity.class
+com\fpt\accessportal\security\SessionAuthorization.class
